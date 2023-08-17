@@ -9666,7 +9666,6 @@ local Button = MainTab:CreateButton({
    },
  },
 })
-    end,
 })
-
-loadstring(game:HttpGet('https://sirius.menu/domainx'))()
+end,
+)}
